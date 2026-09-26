@@ -1,0 +1,6 @@
+{
+  "name": "Bambara Video Dubber",
+  "description": "Dub videos into Bambara (Bamanankan) with AI speech recognition, natural translation, speaker voice synthesis, and synchronized video audio replacement.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
